@@ -22,5 +22,5 @@ if i=='1':
     baixa_vid(url)
 if i=='2':
     print('*PLAYLIST*')
-    pl_url = input('Copie e cole a URL do vídeo que deseja baixar e aperte ENTER => ')
+    pl_url = input('Copie e cole a URL da playlist que deseja baixar e aperte ENTER => ')
     baixa_pl(pl_url)
